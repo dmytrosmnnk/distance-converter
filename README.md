@@ -1,2 +1,4 @@
-# distance-converter
-Distance converter for metric and imperial units
+# Distance Converter
+### Distance converter for metric and imperial units
+
+### [Project link](https://dmytrosmnnk.github.io/distance-converter/)
